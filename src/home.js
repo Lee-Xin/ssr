@@ -1,3 +1,4 @@
+import style from './style/home.less'
 class Person {
     constructor() {
         this.name = ''
